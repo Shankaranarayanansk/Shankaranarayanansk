@@ -18,7 +18,7 @@
 
 Back-end
 
-[![backend](https://skillicons.dev/icons?i=nodejs,express,php,java)](https://skillicons.dev)
+[![backend](https://skillicons.dev/icons?i=nodejs,express,php,java)]
 
 Database
 
