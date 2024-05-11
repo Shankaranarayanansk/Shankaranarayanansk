@@ -26,7 +26,11 @@ Database
 
 Tools
 
-[![tools](https://skillicons.dev/icons?i=postman,git,vscode,vercel,netlify,kali,linux,npm,redux)](https://skillicons.dev)
+[![tools](https://skillicons.dev/icons?i=postman,redux,git,vscode,kali,linux,npm)](https://skillicons.dev)
+
+Deployement
+
+[![design](https://skillicons.dev/icons?i=vercel,netlify,heroku,firebase,github)](https://skillicons.dev)
 
 Design
 
