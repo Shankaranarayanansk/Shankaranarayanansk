@@ -22,7 +22,7 @@ Back-end
 
 Database
 
-[![database](https://skillicons.dev/icons?i=mysql,mongo,firebase)](https://skillicons.dev)
+[![database](https://skillicons.dev/icons?i=mysql,mongo,firebase,supabase)](https://skillicons.dev)
 
 Tools
 
