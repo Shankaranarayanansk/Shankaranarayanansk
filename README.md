@@ -1,6 +1,6 @@
 # _Hi there_ 👋
 # _About Me:_ 🧑‍💻
-# _Passionate Full-Stack Developer Shankaranarayanansk, currently in final year at VSB Engineering College. I've chosen to immerse myself in the practicalities of web development, bypassing traditional academic routes in favor of hands-on learning. Utilizing non-academic time, I meticulously compile notes and resources, augmenting my understanding of the subject matter. My approach has evolved from theoretical studies to project-based learning, where I construct real-world applications and replicas to solidify my skills. Beyond web development, I harbor a strong interest in DevOps methodologies and Salesforce development. Committed to fostering knowledge sharing, I've created detailed roadmaps to guide aspiring developers on their professional journeys.So why are waiting ,Let's innovate and grow your business together._
+# _Passionate Full-Stack Developer Shankaranarayanansk, currently in final year at VSB Engineering College. I've chosen to immerse myself in the practicalities of web development, bypassing traditional academic routes in favor of hands-on learning.Now,I am currently dating with the VSCODE by MERN_
 
 
 # _Contact:_
