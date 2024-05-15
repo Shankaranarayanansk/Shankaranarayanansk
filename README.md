@@ -12,6 +12,10 @@
 # _PORTFOLIO_: [shankaranarayanansk.web.app](https://shankaranarayanansk.web.app/)
 
 ## _Skills_
+ Problem-Solving
+
+[![frontend](https://skillicons.dev/icons?i=javascript,java)](https://skillicons.dev)
+
  Front-end
 
 [![frontend](https://skillicons.dev/icons?i=html,css,javascript,jquery,react,tailwind,bootstrap,materialui)](https://skillicons.dev)
