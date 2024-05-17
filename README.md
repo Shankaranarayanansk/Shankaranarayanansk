@@ -1,6 +1,6 @@
 # _Hi there_ 👋
 # _About Me:_ 🧑‍💻
-# _Passionate Full-Stack Developer Shankaranarayanansk, currently in final year at VSB Engineering College. I've chosen to immerse myself in the practicalities of web development, bypassing traditional academic routes in favor of hands-on learning.Now,I am currently dating on VSCODE with MERN_
+# _Passionate Full-Stack Developer Shankaranarayanansk, currently in final year at VSB Engineering College. I've chosen to immerse myself in the practicalities of web development, bypassing traditional academic routes in favor of hands-on learning."Now, I am currently dating the MERN stack on VSCode."_
 
 
 # _Contact:_
@@ -9,7 +9,7 @@
 
 
 
-# _PORTFOLIO_: [shankaranarayanansk.web.app](https://shankaranarayanansk.web.app/)
+# _PORTFOLIO_: [# _shankaranarayanansk.web.app_](https://shankaranarayanansk.web.app/)
 
 ## _Skills_
  Problem-Solving
