@@ -1,4 +1,4 @@
-# _Hi there_ 👋
+# _Hi There_ 👋
 # _About Me:_ 🧑‍💻
 # _Passionate Full-Stack Developer Shankaranarayanansk, currently in final year at VSB Engineering College. I've chosen to immerse myself in the practicalities of web development, bypassing traditional academic routes in favor of hands-on learning."Now, I am currently dating the MERN stack on VSCode."_
 
