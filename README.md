@@ -40,6 +40,13 @@ Design
 
 [![design](https://skillicons.dev/icons?i=figma,wordpress)](https://skillicons.dev)
 
+# _GitHub Stats:_📊
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KAVIRAJec&theme=vue-dark&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&locale=en&hide_border=false&border_radius=10&order=1" height="200" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=KAVIRAJec&locale=en&mode=daily&theme=vue-dark&hide_border=false&border_radius=10&order=3" height="200" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KAVIRAJec&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=vue-dark&hide_border=false&order=2" height="200" alt="languages graph"  />
+</div>
+
 
 
 
