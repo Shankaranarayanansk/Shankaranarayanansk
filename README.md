@@ -48,7 +48,7 @@ Design
 
 # _My LeetCode_
 <div align="center">
-![](https://leetcard.jacoblin.cool/shankaranarayanansk)
+     <img src="https://leetcard.jacoblin.cool/shankaranarayanansk" height="200"   />   
 </div>
  
 
