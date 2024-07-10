@@ -47,9 +47,9 @@ Design
 </div>
 
 # _My LeetCode_
-
-![](https://leetcard.jacoblin.cool/vigneshranganathan14)
-
+<div align="center">
+![](https://leetcard.jacoblin.cool/shankaranarayanansk)
+</div>
  
 
 
