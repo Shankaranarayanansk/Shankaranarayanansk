@@ -2,7 +2,7 @@
 # _About Me:_ 🧑‍💻
 # _Passionate Full-Stack Developer Shankaranarayanansk, currently in final year at VSB Engineering College. I've chosen to immerse myself in the practicalities of web development, bypassing traditional academic routes in favor of hands-on learning."Now, I am currently dating the MERN stack on VSCode."_
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shankaranarayanansk-71&label=Profile%20views&color=0e75b6&style=flat" alt="annapoorani-71" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shankaranarayanansk&label=Profile%20views&color=0e75b6&style=flat" alt="annapoorani-71" /> </p>
 # _Contact:_
 
 [![frontend](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/bruceleeshankar202/) [![frontend](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/shankaranarayanansk/) [![frontend](https://skillicons.dev/icons?i=gmail)](mailto:sankaranarayananit002@gmail.com)
