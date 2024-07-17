@@ -42,7 +42,7 @@ Design
 # _GitHub Status:📊_
 <div align="center">
   
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=shankaranarayanansk&theme=youtube-dark" alt="GitHub Streak" /></a>
+ <img src="https://github-readme-streak-stats.herokuapp.com?user=shankaranarayanansk&theme=youtube-dark" alt="GitHub Streak" /> 
 </div>
 
 # _My LeetCode_
