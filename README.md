@@ -43,11 +43,13 @@ Design
 <div align="center">
   
  <img src="https://github-readme-streak-stats.herokuapp.com?user=shankaranarayanansk&theme=youtube-dark" alt="GitHub Streak" /> 
+   <a title="GitHub Readme Stats"><img src="https://fabianocouto-readme-stats.vercel.app/api?username=shankaranarayananask&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark_dimmed&hide=stars&line_height=28&v1&rank_icon=github&text_color=adbac7&title_color=7cfe9e&icon_color=7cfe9e" width=49.6% />
 </div>
 
 # _My LeetCode_
 <div align="center">
      <img src="https://leetcard.jacoblin.cool/shankaranarayananask" height="200"   />   
+ 
 </div>
  
 
