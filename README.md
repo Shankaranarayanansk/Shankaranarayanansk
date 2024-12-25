@@ -13,7 +13,7 @@
 ## _Skills_
  Problem-Solving
 
-[![frontend](https://skillicons.dev/icons?i=javascript,java)](https://skillicons.dev)
+[![frontend](https://skillicons.dev/icons?i=javascript,java,cpp)](https://skillicons.dev)
 
  Front-end
 
@@ -29,7 +29,11 @@ Database
 
 Tools
 
-[![tools](https://skillicons.dev/icons?i=postman,redux,git,vscode,kali,linux,npm)](https://skillicons.dev)
+[![tools](https://skillicons.dev/icons?i=postman,redux,git,vscode,kali,npm)](https://skillicons.dev)
+
+Devops
+
+[![tools](https://skillicons.dev/icons?i=docker,aws,git,linux)](https://skillicons.dev)
 
 Deployement
 
