@@ -29,7 +29,7 @@ Database
 
 Tools
 
-[![tools](https://skillicons.dev/icons?i=postman,redux,git,vscode,kali,npm)](https://skillicons.dev)
+[![tools](https://skillicons.dev/icons?i=postman,redux,github,vscode,kali,npm)](https://skillicons.dev)
 
 Devops
 
