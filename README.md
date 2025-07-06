@@ -1,4 +1,4 @@
-,m# _Hi There_ 👋
+# _Hi There_ 👋
 # _About Me:_ 🧑‍💻
 # _Passionate Full-Stack Developer Shankaranarayanansk, currently in doing freelancing and mentoring aspiring developers. I've chosen to immerse myself in the practicalities of web development, bypassing traditional academic routes in favor of hands-on learning."Now, I am currently dating the DSA on Leetcode."_
 
